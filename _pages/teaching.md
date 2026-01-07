@@ -1,12 +1,22 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+# description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## **기후변화의 이해**
+**Understanding Climate Change**
 
-Organize your courses by years, topics, or universities, however you like!
+- Fall 2025
+- General Education (교양)&nbsp;&nbsp;\|&nbsp;&nbsp;CLTR0743-001
+
+---
+
+## **기초레이더기상학**
+**Fundamental Radar Meteorology**
+
+- Fall 2025
+- Major (전공)&nbsp;&nbsp;\|&nbsp;&nbsp;ASAT0395-001
