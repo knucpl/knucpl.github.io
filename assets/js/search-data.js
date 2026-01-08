@@ -56,6 +56,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-prof-pavlos-kollias-amp-dr-katia-lamer-pre-launch-lab-visit",
+          title: 'Prof. Pavlos Kollias &amp;amp; Dr. Katia Lamer — Pre-launch lab visit ✨',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20251208/";
             },},{id: "news-day-one-of-the-lab-officially-launched-and-first-members-all-together",
           title: 'Day one of the lab — officially launched and first members all together!...',
           description: "",
