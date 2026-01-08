@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /
 
 Sitemap: https://knucpl.github.io/sitemap.xml
