@@ -66,6 +66,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20260105/";
+            },},{id: "news-field-week-in-winter-snow-hyunsik-and-seri-joined-in-️",
+          title: 'Field week in winter snow - HyunSik and Seri joined in ❄️🎈',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260114/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
