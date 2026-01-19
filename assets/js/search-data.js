@@ -66,8 +66,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20260105/";
-            },},{id: "news-field-week-in-winter-snow-hyunsik-and-seri-joined-in-️",
-          title: 'Field week in winter snow - HyunSik and Seri joined in ❄️🎈',
+            },},{id: "news-field-week-in-winter-snow-hyeonsik-and-seri-joined-in-️",
+          title: 'Field week in winter snow - HyeonSik and Seri joined in ❄️🎈',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20260114/";
