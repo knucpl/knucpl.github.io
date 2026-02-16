@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-23'
+  last_updated: '2026-02-16'
 papers:
   XJq_DsgAAAAJ:-f6ydRqryjwC:
-    citations: 12
+    citations: 13
     title: "Orographic\u2010Induced Strong Wind Associated With a Low\u2010Pressure System Under Clear\u2010Air Condition During ICE\u2010POP 2018"
     year: '2022'
   XJq_DsgAAAAJ:2P1L_qKh6hAC:
@@ -10,11 +10,11 @@ papers:
     title: A Fuzzy-Logic-Based Approach for Eliminating Interference Lines in Micro Rain Radar (MRR-2)
     year: '2024'
   XJq_DsgAAAAJ:2osOgNQ5qMEC:
-    citations: 47
+    citations: 49
     title: Impacts of Topography on Airflow and Precipitation in the Pyeongchang Area Seen from Multiple-Doppler Radar Observations
     year: '2018'
   XJq_DsgAAAAJ:35N4QoGY0k4C:
-    citations: 5
+    citations: 6
     title: "Introducing graupel density prediction in Weather Research and Forecasting (WRF) double-moment 6-class (WDM6) microphysics and evaluation of the modified scheme during the ICE \u2026"
     year: '2024'
   XJq_DsgAAAAJ:3s1wT3WcHBgC:
@@ -22,7 +22,7 @@ papers:
     title: Variability in the Microphysical Characteristics Associated with Orographic Airflow in the Mountainous Pyeongchang Region
     year: '2025'
   XJq_DsgAAAAJ:4DMP91E08xMC:
-    citations: 45
+    citations: 47
     title: "Impact of wind pattern and complex topography on snow microphysics during International Collaborative Experiment for PyeongChang 2018 Olympic and Paralympic winter games (ICE \u2026"
     year: '2021'
   XJq_DsgAAAAJ:4OULZ7Gr8RgC:
@@ -70,11 +70,11 @@ papers:
     title: 'Diagnosis of winter precipitation types using Spectral Bin Model (SBM): Comparison of five methods using ICE-POP 2018 field experiment data'
     year: '2024'
   XJq_DsgAAAAJ:M3ejUd6NZC8C:
-    citations: 13
+    citations: 11
     title: "A Satellite View of an Intense Snowfall in Madrid (Spain): The Storm \u2018Filomena\u2019in January 2021"
     year: '2021'
   XJq_DsgAAAAJ:NaGl4SEjCO4C:
-    citations: 5
+    citations: 6
     title: "Polarimetric Retrieval of Raindrop Size Distribution: Double\u2010Moment Normalization Approach and Machine Learning Techniques"
     year: '2024'
   XJq_DsgAAAAJ:O3NaXMp0MMsC:
@@ -82,7 +82,7 @@ papers:
     title: The Role of the Kelvin-Helmholtz Wave on the Precipitation Microphysics during ICE-POP 2018
     year: '2023'
   XJq_DsgAAAAJ:R3hNpaxXUhUC:
-    citations: 21
+    citations: 22
     title: Classification of Precipitation Types Based on Machine Learning Using Dual-Polarization Radar Measurements and Thermodynamic Fields
     year: '2022'
   XJq_DsgAAAAJ:RGFaLdJalmkC:
@@ -94,7 +94,7 @@ papers:
     title: Episode Analysis of the Habit and Phase Changes of Snow Crystals in the Wintertime Yeongdong Region
     year: '2024'
   XJq_DsgAAAAJ:Se3iqnhoufwC:
-    citations: 10
+    citations: 11
     title: International Collaborative Experiments for Pyeongchang 2018 Olympic and Paralympic winter games (ICE-POP 2018)
     year: '2019'
   XJq_DsgAAAAJ:SeFeTyx0c_EC:
@@ -114,7 +114,7 @@ papers:
     title: "2016-2017 \uB144 ICE-POP 2018 \uC9D1\uC911\uAD00\uCE21\uC790\uB8CC\uB97C \uC774\uC6A9\uD55C \uC9C0\uD615\uC744 \uB530\uB978 \uAC15\uC124\uC758 \uC5F0\uC9C1\uAD6C\uC870 \uBC0F \uBBF8\uC138\uBB3C\uB9AC \uBD84\uC11D"
     year: '2017'
   XJq_DsgAAAAJ:UebtZRa9Y70C:
-    citations: 0
+    citations: 2
     title: Impact of cloud microphysics parameterizations on simulated winter precipitation during ICE-POP 2018
     year: '2020'
   XJq_DsgAAAAJ:W7OEmFMy1HYC:
@@ -146,7 +146,7 @@ papers:
     title: The accuracy evaluation of various methods for predicting winter precipitation type during ICE-POP 2018 field campaign
     year: '2020'
   XJq_DsgAAAAJ:blknAaTinKkC:
-    citations: 3
+    citations: 4
     title: "The Challenges of Micro-Nowcasting and the Women\u2019s Slope Style Event at the PyeongChang 2018 Olympic Winter Games"
     year: '2023'
   XJq_DsgAAAAJ:cFHS6HbyZ2cC:
@@ -166,15 +166,15 @@ papers:
     title: "Simulated microphysical properties of winter storms from bulk-type microphysics schemes and their evaluation in the Weather Research and Forecasting (v4. 1.3) model during the \u2026"
     year: '2022'
   XJq_DsgAAAAJ:e5wmG9Sq2KIC:
-    citations: 14
+    citations: 13
     title: High-resolution 3D winds derived from a modified WISSDOM synthesis scheme using multiple Doppler lidars and observations
     year: '2023'
   XJq_DsgAAAAJ:eQOLeE2rZwMC:
-    citations: 2
+    citations: 3
     title: Characteristics of Summer Season Precipitation Motion over Jeju Island Region Using Variational Echo Tracking
     year: '2018'
   XJq_DsgAAAAJ:fPk4N6BV_jEC:
-    citations: 0
+    citations: 1
     title: "A Satellite View of an Intense Snowfall in Madrid (Spain): The Storm \u2018Filomena\u2019in January 2021"
     year: '2021'
   XJq_DsgAAAAJ:g5m5HwL7SMYC:
@@ -202,7 +202,7 @@ papers:
     title: 'Estimating the snow density using collocated Parsivel and Micro-Rain Radar measurements: a preliminary study from ICE-POP 2017/2018'
     year: '2024'
   XJq_DsgAAAAJ:mVmsd5A6BfQC:
-    citations: 12
+    citations: 13
     title: Revision of WDM7 Microphysics Scheme and Evaluation for Precipitating Convection over the Korean Peninsula
     year: '2021'
   XJq_DsgAAAAJ:ns9cj8rnVeAC:
@@ -210,7 +210,7 @@ papers:
     title: Machine Learning Approach for Polarimetric Retrieval of Raindrop Size Distributions
     year: '2023'
   XJq_DsgAAAAJ:pqnbT2bcN3wC:
-    citations: 6
+    citations: 8
     title: Retrieval and accuracy evaluation of horizontal winds from Doppler lidars during ICE-POP 2018
     year: '2022'
   XJq_DsgAAAAJ:pyW8ca7W8N0C:
@@ -226,11 +226,11 @@ papers:
     title: The Influence of riming on snow density using ground-based measurement during ICE-POP 2018
     year: '2020'
   XJq_DsgAAAAJ:rO6llkc54NcC:
-    citations: 1
+    citations: 2
     title: "A radar\u2010based investigation of precipitation growth and decay in South Korea"
     year: '2025'
   XJq_DsgAAAAJ:roLk4NBRz8UC:
-    citations: 29
+    citations: 30
     title: Evaluation of simulated winter precipitation using WRF-ARW during the ICE-POP 2018 field campaign
     year: '2020'
   XJq_DsgAAAAJ:u-x6o8ySG0sC:
