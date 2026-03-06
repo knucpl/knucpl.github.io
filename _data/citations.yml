@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-03-06'
 papers:
   XJq_DsgAAAAJ:-f6ydRqryjwC:
     citations: 13
@@ -82,7 +82,7 @@ papers:
     title: The Role of the Kelvin-Helmholtz Wave on the Precipitation Microphysics during ICE-POP 2018
     year: '2023'
   XJq_DsgAAAAJ:R3hNpaxXUhUC:
-    citations: 22
+    citations: 23
     title: Classification of Precipitation Types Based on Machine Learning Using Dual-Polarization Radar Measurements and Thermodynamic Fields
     year: '2022'
   XJq_DsgAAAAJ:RGFaLdJalmkC:
@@ -198,11 +198,11 @@ papers:
     title: Effects of Parameters Defining the Characteristics of Raindrops in the Cloud Microphysics Parameterization on the Simulated Summer Precipitation over the Korean Peninsula
     year: '2024'
   XJq_DsgAAAAJ:ldfaerwXgEUC:
-    citations: 2
+    citations: 3
     title: 'Estimating the snow density using collocated Parsivel and Micro-Rain Radar measurements: a preliminary study from ICE-POP 2017/2018'
     year: '2024'
   XJq_DsgAAAAJ:mVmsd5A6BfQC:
-    citations: 13
+    citations: 14
     title: Revision of WDM7 Microphysics Scheme and Evaluation for Precipitating Convection over the Korean Peninsula
     year: '2021'
   XJq_DsgAAAAJ:ns9cj8rnVeAC:
