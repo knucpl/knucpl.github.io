@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-06'
+  last_updated: '2026-03-09'
 papers:
   XJq_DsgAAAAJ:-f6ydRqryjwC:
     citations: 13
@@ -14,7 +14,7 @@ papers:
     title: Impacts of Topography on Airflow and Precipitation in the Pyeongchang Area Seen from Multiple-Doppler Radar Observations
     year: '2018'
   XJq_DsgAAAAJ:35N4QoGY0k4C:
-    citations: 6
+    citations: 7
     title: "Introducing graupel density prediction in Weather Research and Forecasting (WRF) double-moment 6-class (WDM6) microphysics and evaluation of the modified scheme during the ICE \u2026"
     year: '2024'
   XJq_DsgAAAAJ:3s1wT3WcHBgC:
@@ -22,7 +22,7 @@ papers:
     title: Variability in the Microphysical Characteristics Associated with Orographic Airflow in the Mountainous Pyeongchang Region
     year: '2025'
   XJq_DsgAAAAJ:4DMP91E08xMC:
-    citations: 47
+    citations: 48
     title: "Impact of wind pattern and complex topography on snow microphysics during International Collaborative Experiment for PyeongChang 2018 Olympic and Paralympic winter games (ICE \u2026"
     year: '2021'
   XJq_DsgAAAAJ:4OULZ7Gr8RgC:
@@ -82,11 +82,11 @@ papers:
     title: The Role of the Kelvin-Helmholtz Wave on the Precipitation Microphysics during ICE-POP 2018
     year: '2023'
   XJq_DsgAAAAJ:R3hNpaxXUhUC:
-    citations: 23
+    citations: 24
     title: Classification of Precipitation Types Based on Machine Learning Using Dual-Polarization Radar Measurements and Thermodynamic Fields
     year: '2022'
   XJq_DsgAAAAJ:RGFaLdJalmkC:
-    citations: 7
+    citations: 8
     title: Effects of Prognostic Number Concentrations of Snow and Graupel on the Simulated Precipitation over the Korean Peninsula
     year: '2023'
   XJq_DsgAAAAJ:RYcK_YlVTxYC:
@@ -134,7 +134,7 @@ papers:
     title: 'Evaluation of Turbulent Energy Dissipation Rate Estimation from Doppler Lidar: Impact of Techniques and Scanning Strategies'
     year: '2025'
   XJq_DsgAAAAJ:_FxGoFyzp5QC:
-    citations: 33
+    citations: 34
     title: 'Microphysical properties of three types of snow clouds: implication for satellite snowfall retrievals'
     year: '2020'
   XJq_DsgAAAAJ:a0OBvERweLwC:
@@ -162,7 +162,7 @@ papers:
     title: 'Diagnosis of winter precipitation types using the spectral bin model (version 1DSBM-19M): comparison of five methods using ICE-POP 2018 field experiment data'
     year: '2025'
   XJq_DsgAAAAJ:dhFuZR0502QC:
-    citations: 13
+    citations: 14
     title: "Simulated microphysical properties of winter storms from bulk-type microphysics schemes and their evaluation in the Weather Research and Forecasting (v4. 1.3) model during the \u2026"
     year: '2022'
   XJq_DsgAAAAJ:e5wmG9Sq2KIC:
@@ -202,7 +202,7 @@ papers:
     title: 'Estimating the snow density using collocated Parsivel and Micro-Rain Radar measurements: a preliminary study from ICE-POP 2017/2018'
     year: '2024'
   XJq_DsgAAAAJ:mVmsd5A6BfQC:
-    citations: 14
+    citations: 15
     title: Revision of WDM7 Microphysics Scheme and Evaluation for Precipitating Convection over the Korean Peninsula
     year: '2021'
   XJq_DsgAAAAJ:ns9cj8rnVeAC:
@@ -230,7 +230,7 @@ papers:
     title: "A radar\u2010based investigation of precipitation growth and decay in South Korea"
     year: '2025'
   XJq_DsgAAAAJ:roLk4NBRz8UC:
-    citations: 30
+    citations: 31
     title: Evaluation of simulated winter precipitation using WRF-ARW during the ICE-POP 2018 field campaign
     year: '2020'
   XJq_DsgAAAAJ:u-x6o8ySG0sC:
