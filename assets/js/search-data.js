@@ -78,6 +78,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20260114/";
+            },},{id: "news-hyeonsik-received-the-kms-president-s-award-outstanding-ug-graduate",
+          title: 'HyeonSik received the KMS President’s Award (Outstanding UG Graduate)! 🏆',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260304/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
