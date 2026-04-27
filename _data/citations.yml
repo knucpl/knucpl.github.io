@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-04-27'
 papers:
   XJq_DsgAAAAJ:-f6ydRqryjwC:
     citations: 13
@@ -138,7 +138,7 @@ papers:
     title: 'Microphysical properties of three types of snow clouds: implication for satellite snowfall retrievals'
     year: '2020'
   XJq_DsgAAAAJ:a0OBvERweLwC:
-    citations: 0
+    citations: 2
     title: Uncertainty quantification and optimization of precipitating hydrometeor parameters for winter precipitation in a cloud microphysics scheme
     year: '2025'
   XJq_DsgAAAAJ:bEWYMUwI8FkC:
