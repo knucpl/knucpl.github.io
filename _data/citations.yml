@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-15'
 papers:
   XJq_DsgAAAAJ:-f6ydRqryjwC:
     citations: 13
@@ -130,7 +130,7 @@ papers:
     title: "ICE-POP 2018 \uBBF8\uC138\uBB3C\uB9AC \uAD00\uCE21\uB9DD \uBC0F \uAD00\uCE21 \uACC4\uD68D"
     year: '2016'
   XJq_DsgAAAAJ:ZHo1McVdvXMC:
-    citations: 2
+    citations: 3
     title: 'Evaluation of Turbulent Energy Dissipation Rate Estimation from Doppler Lidar: Impact of Techniques and Scanning Strategies'
     year: '2025'
   XJq_DsgAAAAJ:_FxGoFyzp5QC:
@@ -138,7 +138,7 @@ papers:
     title: 'Microphysical properties of three types of snow clouds: implication for satellite snowfall retrievals'
     year: '2020'
   XJq_DsgAAAAJ:a0OBvERweLwC:
-    citations: 1
+    citations: 2
     title: Uncertainty quantification and optimization of precipitating hydrometeor parameters for winter precipitation in a cloud microphysics scheme
     year: '2025'
   XJq_DsgAAAAJ:bEWYMUwI8FkC:
@@ -210,7 +210,7 @@ papers:
     title: Machine Learning Approach for Polarimetric Retrieval of Raindrop Size Distributions
     year: '2023'
   XJq_DsgAAAAJ:pqnbT2bcN3wC:
-    citations: 8
+    citations: 9
     title: Retrieval and accuracy evaluation of horizontal winds from Doppler lidars during ICE-POP 2018
     year: '2022'
   XJq_DsgAAAAJ:pyW8ca7W8N0C:
