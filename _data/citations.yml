@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-05-25'
 papers:
   XJq_DsgAAAAJ:-f6ydRqryjwC:
     citations: 13
@@ -22,7 +22,7 @@ papers:
     title: Variability in the Microphysical Characteristics Associated with Orographic Airflow in the Mountainous Pyeongchang Region
     year: '2025'
   XJq_DsgAAAAJ:4DMP91E08xMC:
-    citations: 50
+    citations: 51
     title: "Impact of wind pattern and complex topography on snow microphysics during International Collaborative Experiment for PyeongChang 2018 Olympic and Paralympic winter games (ICE \u2026"
     year: '2021'
   XJq_DsgAAAAJ:4OULZ7Gr8RgC:
@@ -138,7 +138,7 @@ papers:
     title: 'Microphysical properties of three types of snow clouds: implication for satellite snowfall retrievals'
     year: '2020'
   XJq_DsgAAAAJ:a0OBvERweLwC:
-    citations: 2
+    citations: 1
     title: Uncertainty quantification and optimization of precipitating hydrometeor parameters for winter precipitation in a cloud microphysics scheme
     year: '2025'
   XJq_DsgAAAAJ:bEWYMUwI8FkC:
