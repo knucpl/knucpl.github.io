@@ -83,6 +83,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20260304/";
+            },},{id: "news-icmcs-xvii-and-ccu-visit-in-taiwan",
+          title: 'ICMCS XVII and CCU visit in Taiwan 🇹🇼',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260420/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
