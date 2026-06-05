@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-05'
 papers:
   XJq_DsgAAAAJ:-f6ydRqryjwC:
     citations: 13
@@ -10,7 +10,7 @@ papers:
     title: A Fuzzy-Logic-Based Approach for Eliminating Interference Lines in Micro Rain Radar (MRR-2)
     year: '2024'
   XJq_DsgAAAAJ:2osOgNQ5qMEC:
-    citations: 49
+    citations: 51
     title: Impacts of Topography on Airflow and Precipitation in the Pyeongchang Area Seen from Multiple-Doppler Radar Observations
     year: '2018'
   XJq_DsgAAAAJ:35N4QoGY0k4C:
@@ -82,7 +82,7 @@ papers:
     title: The Role of the Kelvin-Helmholtz Wave on the Precipitation Microphysics during ICE-POP 2018
     year: '2023'
   XJq_DsgAAAAJ:R3hNpaxXUhUC:
-    citations: 26
+    citations: 27
     title: Classification of Precipitation Types Based on Machine Learning Using Dual-Polarization Radar Measurements and Thermodynamic Fields
     year: '2022'
   XJq_DsgAAAAJ:RGFaLdJalmkC:
@@ -138,7 +138,7 @@ papers:
     title: 'Microphysical properties of three types of snow clouds: implication for satellite snowfall retrievals'
     year: '2020'
   XJq_DsgAAAAJ:a0OBvERweLwC:
-    citations: 1
+    citations: 2
     title: Uncertainty quantification and optimization of precipitating hydrometeor parameters for winter precipitation in a cloud microphysics scheme
     year: '2025'
   XJq_DsgAAAAJ:bEWYMUwI8FkC:
@@ -202,7 +202,7 @@ papers:
     title: 'Estimating the snow density using collocated Parsivel and Micro-Rain Radar measurements: a preliminary study from ICE-POP 2017/2018'
     year: '2024'
   XJq_DsgAAAAJ:mVmsd5A6BfQC:
-    citations: 15
+    citations: 16
     title: Revision of WDM7 Microphysics Scheme and Evaluation for Precipitating Convection over the Korean Peninsula
     year: '2021'
   XJq_DsgAAAAJ:ns9cj8rnVeAC:
