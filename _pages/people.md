@@ -159,4 +159,18 @@ Kyungpook National University
     <p class="member-date">Member since Jan 2026</p>
   </div>
 
+  <div class="member-card">
+    <img class="member-photo" src="{{ '/assets/img/people/haeun.png' | relative_url }}" alt="">
+    <p class="member-name">Haeun Kang<br />강하은</p>
+    <p class="member-role">B.S. student</p>
+    <p class="member-date">Member since Jun 2026</p>
+  </div>
+
+  <div class="member-card">
+    <img class="member-photo" src="{{ '/assets/img/people/seeun.png' | relative_url }}" alt="">
+    <p class="member-name">Seeun Park<br />박세은</p>
+    <p class="member-role">B.S. student</p>
+    <p class="member-date">Member since Jun 2026</p>
+  </div>
+
 </div>
