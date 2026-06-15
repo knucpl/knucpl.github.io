@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-15'
 papers:
   XJq_DsgAAAAJ:-f6ydRqryjwC:
     citations: 13
@@ -74,7 +74,7 @@ papers:
     title: "A Satellite View of an Intense Snowfall in Madrid (Spain): The Storm \u2018Filomena\u2019in January 2021"
     year: '2021'
   XJq_DsgAAAAJ:NaGl4SEjCO4C:
-    citations: 7
+    citations: 8
     title: "Polarimetric Retrieval of Raindrop Size Distribution: Double\u2010Moment Normalization Approach and Machine Learning Techniques"
     year: '2024'
   XJq_DsgAAAAJ:O3NaXMp0MMsC:
@@ -145,6 +145,10 @@ papers:
     citations: 0
     title: The accuracy evaluation of various methods for predicting winter precipitation type during ICE-POP 2018 field campaign
     year: '2020'
+  XJq_DsgAAAAJ:bFI3QPDXJZMC:
+    citations: 0
+    title: "A Concept of a Convection\u2013Cloud Chamber to Study Aerosol\u2013Cloud\u2013Drizzle Interactions"
+    year: '2026'
   XJq_DsgAAAAJ:blknAaTinKkC:
     citations: 4
     title: "The Challenges of Micro-Nowcasting and the Women\u2019s Slope Style Event at the PyeongChang 2018 Olympic Winter Games"
@@ -173,6 +177,10 @@ papers:
     citations: 3
     title: Characteristics of Summer Season Precipitation Motion over Jeju Island Region Using Variational Echo Tracking
     year: '2018'
+  XJq_DsgAAAAJ:f2IySw72cVMC:
+    citations: 1
+    title: How to maximize the educational benefits for students participating in a meteorological field campaign
+    year: '2026'
   XJq_DsgAAAAJ:fPk4N6BV_jEC:
     citations: 1
     title: "A Satellite View of an Intense Snowfall in Madrid (Spain): The Storm \u2018Filomena\u2019in January 2021"
