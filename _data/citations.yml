@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-06-24'
 papers:
   XJq_DsgAAAAJ:-f6ydRqryjwC:
     citations: 13
@@ -14,7 +14,7 @@ papers:
     title: Impacts of Topography on Airflow and Precipitation in the Pyeongchang Area Seen from Multiple-Doppler Radar Observations
     year: '2018'
   XJq_DsgAAAAJ:35N4QoGY0k4C:
-    citations: 7
+    citations: 8
     title: "Introducing graupel density prediction in Weather Research and Forecasting (WRF) double-moment 6-class (WDM6) microphysics and evaluation of the modified scheme during the ICE \u2026"
     year: '2024'
   XJq_DsgAAAAJ:3s1wT3WcHBgC:
@@ -22,7 +22,7 @@ papers:
     title: Variability in the Microphysical Characteristics Associated with Orographic Airflow in the Mountainous Pyeongchang Region
     year: '2025'
   XJq_DsgAAAAJ:4DMP91E08xMC:
-    citations: 51
+    citations: 53
     title: "Impact of wind pattern and complex topography on snow microphysics during International Collaborative Experiment for PyeongChang 2018 Olympic and Paralympic winter games (ICE \u2026"
     year: '2021'
   XJq_DsgAAAAJ:4OULZ7Gr8RgC:
@@ -46,7 +46,7 @@ papers:
     title: Correction and evaluation of drop size distributions from different distrometers for ICE-POP 2018 project
     year: '2018'
   XJq_DsgAAAAJ:D03iK_w7-QYC:
-    citations: 0
+    citations: 1
     title: 'Implementation of predicted rime mass in the bin microphysics scheme DESCAM 3D: Heavy Snowfall event during ICE-POP 2018'
     year: '2025'
   XJq_DsgAAAAJ:GnPB-g6toBAC:
@@ -134,9 +134,13 @@ papers:
     title: 'Evaluation of Turbulent Energy Dissipation Rate Estimation from Doppler Lidar: Impact of Techniques and Scanning Strategies'
     year: '2025'
   XJq_DsgAAAAJ:_FxGoFyzp5QC:
-    citations: 35
+    citations: 37
     title: 'Microphysical properties of three types of snow clouds: implication for satellite snowfall retrievals'
     year: '2020'
+  XJq_DsgAAAAJ:_xSYboBqXhAC:
+    citations: 5
+    title: "A Satellite View of an Intense Snowfall in Madrid (Spain): The Storm \u201CFilomena\u201D in January 2021, Remote Sens., 13, 2702"
+    year: '2021'
   XJq_DsgAAAAJ:a0OBvERweLwC:
     citations: 2
     title: Uncertainty quantification and optimization of precipitating hydrometeor parameters for winter precipitation in a cloud microphysics scheme
@@ -166,7 +170,7 @@ papers:
     title: 'Diagnosis of winter precipitation types using the spectral bin model (version 1DSBM-19M): comparison of five methods using ICE-POP 2018 field experiment data'
     year: '2025'
   XJq_DsgAAAAJ:dhFuZR0502QC:
-    citations: 16
+    citations: 17
     title: "Simulated microphysical properties of winter storms from bulk-type microphysics schemes and their evaluation in the Weather Research and Forecasting (v4. 1.3) model during the \u2026"
     year: '2022'
   XJq_DsgAAAAJ:e5wmG9Sq2KIC:
@@ -238,7 +242,7 @@ papers:
     title: "A radar\u2010based investigation of precipitation growth and decay in South Korea"
     year: '2025'
   XJq_DsgAAAAJ:roLk4NBRz8UC:
-    citations: 32
+    citations: 33
     title: Evaluation of simulated winter precipitation using WRF-ARW during the ICE-POP 2018 field campaign
     year: '2020'
   XJq_DsgAAAAJ:u-x6o8ySG0sC:
