@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-27'
 papers:
   XJq_DsgAAAAJ:-f6ydRqryjwC:
     citations: 13
@@ -10,7 +10,7 @@ papers:
     title: A Fuzzy-Logic-Based Approach for Eliminating Interference Lines in Micro Rain Radar (MRR-2)
     year: '2024'
   XJq_DsgAAAAJ:2osOgNQ5qMEC:
-    citations: 51
+    citations: 52
     title: Impacts of Topography on Airflow and Precipitation in the Pyeongchang Area Seen from Multiple-Doppler Radar Observations
     year: '2018'
   XJq_DsgAAAAJ:35N4QoGY0k4C:
@@ -38,7 +38,7 @@ papers:
     title: Future Directions in Precipitation Science
     year: '2021'
   XJq_DsgAAAAJ:9ZlFYXVOiuMC:
-    citations: 2
+    citations: 3
     title: "Measurement report: strong valley wind events during the international collaborative experiment\u2013Pyeongchang 2018 Olympic and Paralympic winter games project"
     year: '2021'
   XJq_DsgAAAAJ:9yKSN-GCB0IC:
@@ -70,7 +70,7 @@ papers:
     title: 'Diagnosis of winter precipitation types using Spectral Bin Model (SBM): Comparison of five methods using ICE-POP 2018 field experiment data'
     year: '2024'
   XJq_DsgAAAAJ:M3ejUd6NZC8C:
-    citations: 12
+    citations: 13
     title: "A Satellite View of an Intense Snowfall in Madrid (Spain): The Storm \u2018Filomena\u2019in January 2021"
     year: '2021'
   XJq_DsgAAAAJ:NaGl4SEjCO4C:
@@ -82,7 +82,7 @@ papers:
     title: The Role of the Kelvin-Helmholtz Wave on the Precipitation Microphysics during ICE-POP 2018
     year: '2023'
   XJq_DsgAAAAJ:R3hNpaxXUhUC:
-    citations: 28
+    citations: 29
     title: Classification of Precipitation Types Based on Machine Learning Using Dual-Polarization Radar Measurements and Thermodynamic Fields
     year: '2022'
   XJq_DsgAAAAJ:RGFaLdJalmkC:
@@ -150,7 +150,7 @@ papers:
     title: The accuracy evaluation of various methods for predicting winter precipitation type during ICE-POP 2018 field campaign
     year: '2020'
   XJq_DsgAAAAJ:bFI3QPDXJZMC:
-    citations: 0
+    citations: 1
     title: "A Concept of a Convection\u2013Cloud Chamber to Study Aerosol\u2013Cloud\u2013Drizzle Interactions"
     year: '2026'
   XJq_DsgAAAAJ:blknAaTinKkC:
@@ -166,7 +166,7 @@ papers:
     title: 'Visibility analysis for the region of ICE-POP 2018: Yongpyong Alpine Centre'
     year: '2016'
   XJq_DsgAAAAJ:dfsIfKJdRG4C:
-    citations: 1
+    citations: 2
     title: 'Diagnosis of winter precipitation types using the spectral bin model (version 1DSBM-19M): comparison of five methods using ICE-POP 2018 field experiment data'
     year: '2025'
   XJq_DsgAAAAJ:dhFuZR0502QC:
@@ -226,7 +226,7 @@ papers:
     title: Retrieval and accuracy evaluation of horizontal winds from Doppler lidars during ICE-POP 2018
     year: '2022'
   XJq_DsgAAAAJ:pyW8ca7W8N0C:
-    citations: 2
+    citations: 3
     title: Advantages of using multiple Doppler radars with different wavelengths for three dimensional wind retrieval
     year: '2025'
   XJq_DsgAAAAJ:qjMakFHDy7sC:
