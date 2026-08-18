@@ -93,6 +93,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20260514/";
+            },},{id: "news-yujin-joins-us-as-our-7th-member",
+          title: 'Yujin joins us as our 7th member! 🎉',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260729/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
