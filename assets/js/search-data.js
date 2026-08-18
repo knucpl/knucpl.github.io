@@ -88,6 +88,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20260420/";
+            },},{id: "news-welcome-haeun-and-seeun-to-the-lab",
+          title: 'Welcome Haeun and Seeun to the lab! 🎉',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260514/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
