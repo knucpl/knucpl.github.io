@@ -146,6 +146,14 @@ Kyungpook National University
   </div>
 
   <div class="member-card">
+    <img class="member-photo" src="{{ '/assets/img/people/yujin.png' | relative_url }}" alt="">
+    <p class="member-name">Yujin Kim<br />김유진</p>
+    <p class="member-role">M.S. student</p>
+    <p class="member-degree">B.S. (Aug 2026)</p>
+    <p class="member-date">Member since Aug 2026</p>
+  </div>
+
+  <div class="member-card">
     <img class="member-photo" src="{{ '/assets/img/people/seokhyun.png' | relative_url }}" alt="">
     <p class="member-name">Seokhyun Jang<br />장석현</p>
     <p class="member-role">B.S. student</p>
