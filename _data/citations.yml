@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-21'
 papers:
   XJq_DsgAAAAJ:-f6ydRqryjwC:
-    citations: 13
+    citations: 15
     title: "Orographic\u2010Induced Strong Wind Associated With a Low\u2010Pressure System Under Clear\u2010Air Condition During ICE\u2010POP 2018"
     year: '2022'
   XJq_DsgAAAAJ:2P1L_qKh6hAC:
@@ -10,11 +10,11 @@ papers:
     title: A Fuzzy-Logic-Based Approach for Eliminating Interference Lines in Micro Rain Radar (MRR-2)
     year: '2024'
   XJq_DsgAAAAJ:2osOgNQ5qMEC:
-    citations: 52
+    citations: 54
     title: Impacts of Topography on Airflow and Precipitation in the Pyeongchang Area Seen from Multiple-Doppler Radar Observations
     year: '2018'
   XJq_DsgAAAAJ:35N4QoGY0k4C:
-    citations: 9
+    citations: 7
     title: "Introducing graupel density prediction in Weather Research and Forecasting (WRF) double-moment 6-class (WDM6) microphysics and evaluation of the modified scheme during the ICE \u2026"
     year: '2024'
   XJq_DsgAAAAJ:3s1wT3WcHBgC:
@@ -30,7 +30,7 @@ papers:
     title: Impact of Prognostic Graupel Density on Simulated Precipitating Convections
     year: '2024'
   XJq_DsgAAAAJ:70eg2SAEIzsC:
-    citations: 8
+    citations: 10
     title: Supervised Learning-Based Prediction of Lightning Probability in the Warm Season
     year: '2024'
   XJq_DsgAAAAJ:8k81kl-MbHgC:
@@ -74,7 +74,7 @@ papers:
     title: "A Satellite View of an Intense Snowfall in Madrid (Spain): The Storm \u2018Filomena\u2019in January 2021"
     year: '2021'
   XJq_DsgAAAAJ:NaGl4SEjCO4C:
-    citations: 11
+    citations: 12
     title: "Polarimetric Retrieval of Raindrop Size Distribution: Double\u2010Moment Normalization Approach and Machine Learning Techniques"
     year: '2024'
   XJq_DsgAAAAJ:O3NaXMp0MMsC:
@@ -82,7 +82,7 @@ papers:
     title: The Role of the Kelvin-Helmholtz Wave on the Precipitation Microphysics during ICE-POP 2018
     year: '2023'
   XJq_DsgAAAAJ:R3hNpaxXUhUC:
-    citations: 29
+    citations: 28
     title: Classification of Precipitation Types Based on Machine Learning Using Dual-Polarization Radar Measurements and Thermodynamic Fields
     year: '2022'
   XJq_DsgAAAAJ:RGFaLdJalmkC:
@@ -94,7 +94,7 @@ papers:
     title: Episode Analysis of the Habit and Phase Changes of Snow Crystals in the Wintertime Yeongdong Region
     year: '2024'
   XJq_DsgAAAAJ:Se3iqnhoufwC:
-    citations: 11
+    citations: 12
     title: International Collaborative Experiments for Pyeongchang 2018 Olympic and Paralympic winter games (ICE-POP 2018)
     year: '2019'
   XJq_DsgAAAAJ:SeFeTyx0c_EC:
@@ -130,7 +130,7 @@ papers:
     title: "ICE-POP 2018 \uBBF8\uC138\uBB3C\uB9AC \uAD00\uCE21\uB9DD \uBC0F \uAD00\uCE21 \uACC4\uD68D"
     year: '2016'
   XJq_DsgAAAAJ:ZHo1McVdvXMC:
-    citations: 4
+    citations: 5
     title: 'Evaluation of Turbulent Energy Dissipation Rate Estimation from Doppler Lidar: Impact of Techniques and Scanning Strategies'
     year: '2025'
   XJq_DsgAAAAJ:_FxGoFyzp5QC:
@@ -174,7 +174,7 @@ papers:
     title: "Simulated microphysical properties of winter storms from bulk-type microphysics schemes and their evaluation in the Weather Research and Forecasting (v4. 1.3) model during the \u2026"
     year: '2022'
   XJq_DsgAAAAJ:e5wmG9Sq2KIC:
-    citations: 14
+    citations: 15
     title: High-resolution 3D winds derived from a modified WISSDOM synthesis scheme using multiple Doppler lidars and observations
     year: '2023'
   XJq_DsgAAAAJ:eQOLeE2rZwMC:
@@ -210,7 +210,7 @@ papers:
     title: Effects of Parameters Defining the Characteristics of Raindrops in the Cloud Microphysics Parameterization on the Simulated Summer Precipitation over the Korean Peninsula
     year: '2024'
   XJq_DsgAAAAJ:ldfaerwXgEUC:
-    citations: 3
+    citations: 4
     title: 'Estimating the snow density using collocated Parsivel and Micro-Rain Radar measurements: a preliminary study from ICE-POP 2017/2018'
     year: '2024'
   XJq_DsgAAAAJ:mVmsd5A6BfQC:
@@ -266,11 +266,11 @@ papers:
     title: Effects of the realistic description for the terminal fall velocity-diameter relationship of raindrops on the simulated summer precipitation over South Korea
     year: '2020'
   XJq_DsgAAAAJ:yD5IFk8b50cC:
-    citations: 1
+    citations: 2
     title: Simulation of wet snow during winter orographic precipitation using the Predicted Particle Properties (P3) microphysics scheme
     year: '2025'
   XJq_DsgAAAAJ:zA6iFVUQeVQC:
-    citations: 2
+    citations: 3
     title: Classification and Key Factors for the Snowfall over the Eastern Part of the Korean Peninsula
     year: '2025'
   XJq_DsgAAAAJ:zYLM7Y9cAGgC:
