@@ -7,19 +7,19 @@ nav: true
 nav_order: 7
 ---
 
+## **기초레이더기상학**
+**Fundamental Radar Meteorology**
+
+- Fall 2026, Fall 2025
+- Major (전공)&nbsp;&nbsp;\|&nbsp;&nbsp;ASAT0395
+
+---
+
 ## **구름물리**
 **Cloud Physics**
 
 - Spring 2026
 - Major (전공)&nbsp;&nbsp;\|&nbsp;&nbsp;ASAT0566
-
----
-
-## **기초레이더기상학**
-**Fundamental Radar Meteorology**
-
-- Fall 2025
-- Major (전공)&nbsp;&nbsp;\|&nbsp;&nbsp;ASAT0395
 
 ---
 
@@ -31,8 +31,25 @@ nav_order: 7
 
 ---
 
+## **대기열역학**
+**Atmospheric Thermodynamics**
+
+- Fall 2026
+- Major (전공)&nbsp;&nbsp;\|&nbsp;&nbsp;ASAT0365
+
+---
+
 ## **기후변화의 이해**
 **Understanding Climate Change**
 
 - Spring 2026, Fall 2025
 - General Education (교양)&nbsp;&nbsp;\|&nbsp;&nbsp;CLTR0743
+
+---
+
+## **학위논문연구 및 연구윤리 (대기과학)**
+**Dissertation and Research Ethics: Atmospheric Sciences**
+
+- Fall 2026
+- Major (전공)&nbsp;&nbsp;\|&nbsp;&nbsp;ASDE0000
+
