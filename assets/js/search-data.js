@@ -98,6 +98,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20260729/";
+            },},{id: "news-three-weeks-of-summer-storms-our-group-joined-the-kpop-ms-2026-field-campaign-️",
+          title: 'Three weeks of summer storms - our group joined the KPOP-MS 2026 field...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260820/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
