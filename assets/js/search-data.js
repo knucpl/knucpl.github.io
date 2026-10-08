@@ -103,6 +103,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20260820/";
+            },},{id: "news-seokhyun-and-seeun-named-to-the-dean-39-s-list",
+          title: 'Seokhyun and Seeun named to the Dean&amp;#39;s List! 🏅',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20261007/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
