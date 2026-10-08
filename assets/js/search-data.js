@@ -103,6 +103,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20260820/";
+            },},{id: "news-erad-2026-in-belgrade-serbia",
+          title: 'ERAD 2026 in Belgrade, Serbia 🇷🇸📡',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260828/";
             },},{id: "news-seokhyun-and-seeun-named-to-the-dean-39-s-list",
           title: 'Seokhyun and Seeun named to the Dean&amp;#39;s List! 🏅',
           description: "",
