@@ -7,11 +7,9 @@ nav_order: 2
 ---
 
 <style>
-  #researchCarousel{
-    --carousel-h: 700px;
-  }
+  /* Fixed aspect ratio: scales with screen width, and the height never changes between slides */
   #researchCarousel .carousel-item{
-    height: var(--carousel-h);
+    aspect-ratio: 4 / 3;
     background: rgba(0,0,0,0.03);
   }
   #researchCarousel .carousel-item img{
@@ -24,11 +22,12 @@ nav_order: 2
 
 </style>
 
-<div id="researchCarousel" class="carousel slide mb-4" data-ride="carousel" data-interval="6000">
+<div id="researchCarousel" class="carousel slide mb-4" data-ride="carousel" data-interval="false">
   <ol class="carousel-indicators">
     <li data-target="#researchCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#researchCarousel" data-slide-to="1"></li>
     <li data-target="#researchCarousel" data-slide-to="2"></li>
+    <li data-target="#researchCarousel" data-slide-to="3"></li>
   </ol>
 
   <div class="carousel-inner">
@@ -45,6 +44,10 @@ nav_order: 2
       <img src="{{ '/assets/img/research/03.png' | relative_url }}" alt="03.png">
     </div>
 
+    <div class="carousel-item">
+      <img src="{{ '/assets/img/research/04.png' | relative_url }}" alt="04.png">
+    </div>
+
   </div>
 
   <a class="carousel-control-prev" href="#researchCarousel" role="button" data-slide="prev">
@@ -57,6 +60,21 @@ nav_order: 2
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+<script>
+  // Auto-advance every 7 s; any slide change (including manual ones) restarts the count
+  document.addEventListener('DOMContentLoaded', function () {
+    if (!window.jQuery) return;
+    var $c = jQuery('#researchCarousel');
+    var timer;
+    function restart() {
+      clearTimeout(timer);
+      timer = setTimeout(function () { $c.carousel('next'); }, 7000);
+    }
+    $c.on('slid.bs.carousel', restart);
+    restart();
+  });
+</script>
 
 <script>
   (function () {
