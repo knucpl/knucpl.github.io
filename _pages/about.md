@@ -28,9 +28,67 @@ latest_posts:
 ---
 
 
-<div style="text-align: center; margin-bottom: 1.5rem;">
-  <img src="/assets/img/gallery/260327.jpeg" style="max-width: 100%; border-radius: 12px;">
+<style>
+  /* Fixed aspect ratio: the height never changes between slides, so the content below stays put */
+  #homeCarousel{
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  #homeCarousel .carousel-item{
+    aspect-ratio: 3 / 2;
+  }
+  #homeCarousel .carousel-item img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+</style>
+
+<div id="homeCarousel" class="carousel slide mb-4" data-ride="carousel" data-interval="false">
+  <ol class="carousel-indicators">
+    <li data-target="#homeCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#homeCarousel" data-slide-to="1"></li>
+  </ol>
+
+  <div class="carousel-inner">
+
+    <div class="carousel-item active">
+      <img src="{{ '/assets/img/gallery/261016_01.jpg' | relative_url }}" alt="Our group at the 2026 KMS Autumn Meeting">
+    </div>
+
+    <div class="carousel-item">
+      <img src="{{ '/assets/img/gallery/260327.jpeg' | relative_url }}" alt="Our group">
+    </div>
+
+  </div>
+
+  <a class="carousel-control-prev" href="#homeCarousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+
+  <a class="carousel-control-next" href="#homeCarousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
+
+<script>
+  // Auto-advance every 7 s; any slide change (including manual ones) restarts the count
+  document.addEventListener('DOMContentLoaded', function () {
+    if (!window.jQuery) return;
+    var $c = jQuery('#homeCarousel');
+    var timer;
+    function restart() {
+      clearTimeout(timer);
+      timer = setTimeout(function () { $c.carousel('next'); }, 7000);
+    }
+    $c.on('slid.bs.carousel', restart);
+    restart();
+  });
+</script>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
