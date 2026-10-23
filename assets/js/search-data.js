@@ -113,6 +113,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20261007/";
+            },},{id: "news-our-first-conference-all-together-2026-kms-autumn-meeting",
+          title: 'Our first conference all together - 2026 KMS Autumn Meeting 🍂',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20261016/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
