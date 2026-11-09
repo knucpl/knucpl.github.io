@@ -156,7 +156,7 @@ Kyungpook National University
   <div class="member-card">
     <img class="member-photo" src="{{ '/assets/img/people/seokhyun.png' | relative_url }}" alt="">
     <p class="member-name">Seokhyun Jang<br />장석현</p>
-    <p class="member-role">B.S. student</p>
+    <p class="member-role">B.S. student<span style="font-size:0.5em;"> (B.S.–M.S. integrated)</span></p>
     <p class="member-date">Member since Jan 2026</p>
   </div>
 
