@@ -1,4 +1,4 @@
-name: Update Google Scholar Citations
+name: Update Citations
 
 on:
   schedule:
@@ -7,6 +7,10 @@ on:
     - cron: "0 0 * * 5" # Friday
   workflow_dispatch:
 
+permissions:
+  contents: write # push the updated citation data
+  actions: write # start deploy.yml (pushes made with GITHUB_TOKEN do not trigger it)
+
 jobs:
   update-citations:
     runs-on: ubuntu-latest
@@ -14,9 +18,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      # See CUSTOMIZE.md for details on how to set up PAT for triggering subsequent workflows
-      #        with:
-      #          token: ${{ secrets.PAT }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -85,6 +86,16 @@ jobs:
             echo "ℹ️ _data/citations.yml was not changed." >> $GITHUB_STEP_SUMMARY
           fi
 
+      # The API key lives in the SCOPUS_API_KEY repository secret and is only exposed to this step.
+      # Without the secret the script skips the update and exits successfully.
+      - name: Run Scopus citation update script
+        id: run_scopus_update
+        continue-on-error: true
+        env:
+          SCOPUS_API_KEY: ${{ secrets.SCOPUS_API_KEY }}
+          SCOPUS_INSTTOKEN: ${{ secrets.SCOPUS_INSTTOKEN }}
+        run: timeout 180 python bin/update_scopus_citations.py
+
       - name: Configure Git
         run: |
           git config --local user.email "actions@github.com"
@@ -92,10 +103,32 @@ jobs:
           echo "🔧 Git configured."
 
       - name: Commit and push if changed
+        id: commit
         run: |
-          git add _data/citations.yml
-          git diff --staged --quiet || (
-            echo "📤 Committing and pushing changes..."
-            git commit -m "Update Google Scholar citations"
-            git push
-          )
+          git add _data/citations.yml _data/scopus_citations.yml
+          if git diff --staged --quiet; then
+            echo "ℹ️ No citation changes to commit."
+            exit 0
+          fi
+          sources=()
+          git diff --staged --quiet -- _data/citations.yml || sources+=("Google Scholar")
+          git diff --staged --quiet -- _data/scopus_citations.yml || sources+=("Scopus")
+          message="Update $(IFS=/; echo "${sources[*]}") citations"
+          echo "📤 Committing and pushing: $message"
+          git commit -m "$message"
+          git push
+          echo "pushed=true" >> $GITHUB_OUTPUT
+
+      - name: Trigger site deploy
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh workflow run deploy.yml --ref "${{ github.ref_name }}"
+          echo "🚀 Triggered deploy.yml so the new citation counts go live." >> $GITHUB_STEP_SUMMARY
+
+      - name: Fail if the Scopus update failed
+        if: steps.run_scopus_update.outcome == 'failure'
+        run: |
+          echo "❌ Scopus citation update failed; see the 'Run Scopus citation update script' log." >> $GITHUB_STEP_SUMMARY
+          exit 1

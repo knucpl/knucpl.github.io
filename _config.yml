@@ -296,6 +296,7 @@ enable_publication_badges:
   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
   inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
+  scopus: true # Scopus cited-by badge, matched by DOI in _data/scopus_citations.yml (updated by bin/update_scopus_citations.py)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:

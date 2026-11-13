@@ -278,7 +278,16 @@
       {% if entry.inspirehep_id %}
         {% assign entry_has_inspirehep_badge = true %}
       {% endif %}
-      {% if entry_has_altmetric_badge or entry_has_dimensions_badge or entry_has_google_scholar_badge or entry_has_inspirehep_badge %}
+
+      {% assign entry_has_scopus_badge = false %}
+      {% if site.enable_publication_badges.scopus and entry.doi %}
+        {% assign scopus_doi_key = entry.doi | downcase %}
+        {% assign scopus_paper = site.data.scopus_citations.papers[scopus_doi_key] %}
+        {% if scopus_paper and scopus_paper.url %}
+          {% assign entry_has_scopus_badge = true %}
+        {% endif %}
+      {% endif %}
+      {% if entry_has_altmetric_badge or entry_has_dimensions_badge or entry_has_google_scholar_badge or entry_has_inspirehep_badge or entry_has_scopus_badge %}
         <div class="badges">
           {% if site.enable_publication_badges.altmetric and entry_has_altmetric_badge %}
             <span
@@ -342,6 +351,20 @@
               <img
                 src="https://img.shields.io/badge/scholar-{{ citation_count }}-4285F4?logo=googlescholar&labelColor=beige"
                 alt="{{ citation_count }} Google Scholar citations"
+              >
+            </a>
+          {% endif %}
+          {% if entry_has_scopus_badge %}
+            <!-- Scopus attribution: label the count as Scopus and link to the citing documents on scopus.com -->
+            <a
+              href="{{ scopus_paper.url }}"
+              aria-label="Scopus citations"
+              title="Cited by {{ scopus_paper.citations }} in Scopus"
+              role="button"
+            >
+              <img
+                src="https://img.shields.io/badge/scopus-{{ scopus_paper.citations }}-E9711C?logo=scopus&labelColor=beige"
+                alt="{{ scopus_paper.citations }} Scopus citations"
               >
             </a>
           {% endif %}
