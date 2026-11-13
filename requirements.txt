@@ -1,3 +1,4 @@
 nbconvert
 pyyaml
 scholarly
+bibtexparser<2 # scholarly imports bibtexparser 1.x modules that were removed in 2.0
