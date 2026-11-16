@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-26'
+  last_updated: '2026-11-16'
 papers:
   XJq_DsgAAAAJ:-f6ydRqryjwC:
-    citations: 16
+    citations: 17
     title: "Orographic\u2010Induced Strong Wind Associated With a Low\u2010Pressure System Under Clear\u2010Air Condition During ICE\u2010POP 2018"
     year: '2022'
   XJq_DsgAAAAJ:2P1L_qKh6hAC:
@@ -10,7 +10,7 @@ papers:
     title: A Fuzzy-Logic-Based Approach for Eliminating Interference Lines in Micro Rain Radar (MRR-2)
     year: '2024'
   XJq_DsgAAAAJ:2osOgNQ5qMEC:
-    citations: 54
+    citations: 55
     title: Impacts of Topography on Airflow and Precipitation in the Pyeongchang Area Seen from Multiple-Doppler Radar Observations
     year: '2018'
   XJq_DsgAAAAJ:35N4QoGY0k4C:
@@ -22,7 +22,7 @@ papers:
     title: Variability in the Microphysical Characteristics Associated with Orographic Airflow in the Mountainous Pyeongchang Region
     year: '2025'
   XJq_DsgAAAAJ:4DMP91E08xMC:
-    citations: 55
+    citations: 57
     title: "Impact of wind pattern and complex topography on snow microphysics during International Collaborative Experiment for PyeongChang 2018 Olympic and Paralympic winter games (ICE \u2026"
     year: '2021'
   XJq_DsgAAAAJ:4OULZ7Gr8RgC:
@@ -38,7 +38,7 @@ papers:
     title: Future Directions in Precipitation Science
     year: '2021'
   XJq_DsgAAAAJ:9ZlFYXVOiuMC:
-    citations: 3
+    citations: 4
     title: "Measurement report: strong valley wind events during the international collaborative experiment\u2013Pyeongchang 2018 Olympic and Paralympic winter games project"
     year: '2021'
   XJq_DsgAAAAJ:9yKSN-GCB0IC:
@@ -46,9 +46,13 @@ papers:
     title: Correction and evaluation of drop size distributions from different distrometers for ICE-POP 2018 project
     year: '2018'
   XJq_DsgAAAAJ:D03iK_w7-QYC:
-    citations: 1
+    citations: 2
     title: 'Implementation of predicted rime mass in the bin microphysics scheme DESCAM 3D: Heavy Snowfall event during ICE-POP 2018'
     year: '2025'
+  XJq_DsgAAAAJ:EUQCXRtRnyEC:
+    citations: 0
+    title: "Saccadic Phased Array Radar Sampling of Severe Weather Phenomena\u2013Case study: A microburst event"
+    year: '2026'
   XJq_DsgAAAAJ:GnPB-g6toBAC:
     citations: 0
     title: Impact of LDAPS model error on precipitation types from Spectral Bin Model
@@ -74,7 +78,7 @@ papers:
     title: "A Satellite View of an Intense Snowfall in Madrid (Spain): The Storm \u2018Filomena\u2019in January 2021"
     year: '2021'
   XJq_DsgAAAAJ:NaGl4SEjCO4C:
-    citations: 12
+    citations: 14
     title: "Polarimetric Retrieval of Raindrop Size Distribution: Double\u2010Moment Normalization Approach and Machine Learning Techniques"
     year: '2024'
   XJq_DsgAAAAJ:O3NaXMp0MMsC:
@@ -82,15 +86,15 @@ papers:
     title: The Role of the Kelvin-Helmholtz Wave on the Precipitation Microphysics during ICE-POP 2018
     year: '2023'
   XJq_DsgAAAAJ:R3hNpaxXUhUC:
-    citations: 29
+    citations: 31
     title: Classification of Precipitation Types Based on Machine Learning Using Dual-Polarization Radar Measurements and Thermodynamic Fields
     year: '2022'
   XJq_DsgAAAAJ:RGFaLdJalmkC:
-    citations: 8
+    citations: 9
     title: Effects of Prognostic Number Concentrations of Snow and Graupel on the Simulated Precipitation over the Korean Peninsula
     year: '2023'
   XJq_DsgAAAAJ:RYcK_YlVTxYC:
-    citations: 0
+    citations: 1
     title: Episode Analysis of the Habit and Phase Changes of Snow Crystals in the Wintertime Yeongdong Region
     year: '2024'
   XJq_DsgAAAAJ:Se3iqnhoufwC:
@@ -130,31 +134,35 @@ papers:
     title: "ICE-POP 2018 \uBBF8\uC138\uBB3C\uB9AC \uAD00\uCE21\uB9DD \uBC0F \uAD00\uCE21 \uACC4\uD68D"
     year: '2016'
   XJq_DsgAAAAJ:ZHo1McVdvXMC:
-    citations: 6
+    citations: 9
     title: 'Evaluation of Turbulent Energy Dissipation Rate Estimation from Doppler Lidar: Impact of Techniques and Scanning Strategies'
     year: '2025'
   XJq_DsgAAAAJ:_FxGoFyzp5QC:
-    citations: 39
+    citations: 41
     title: 'Microphysical properties of three types of snow clouds: implication for satellite snowfall retrievals'
     year: '2020'
   XJq_DsgAAAAJ:_xSYboBqXhAC:
-    citations: 5
+    citations: 6
     title: "A Satellite View of an Intense Snowfall in Madrid (Spain): The Storm \u201CFilomena\u201D in January 2021, Remote Sens., 13, 2702"
     year: '2021'
   XJq_DsgAAAAJ:a0OBvERweLwC:
-    citations: 2
+    citations: 4
     title: Uncertainty quantification and optimization of precipitating hydrometeor parameters for winter precipitation in a cloud microphysics scheme
     year: '2025'
+  XJq_DsgAAAAJ:b0M2c_1WBrUC:
+    citations: 0
+    title: 'Implementation of predicted rime mass in the bin microphysics scheme DESCAM 3D: evaluation for an idealized squall line system and a heavy snowfall event during ICE-POP 2018'
+    year: '2026'
   XJq_DsgAAAAJ:bEWYMUwI8FkC:
     citations: 0
     title: The accuracy evaluation of various methods for predicting winter precipitation type during ICE-POP 2018 field campaign
     year: '2020'
   XJq_DsgAAAAJ:bFI3QPDXJZMC:
-    citations: 1
+    citations: 2
     title: "A Concept of a Convection\u2013Cloud Chamber to Study Aerosol\u2013Cloud\u2013Drizzle Interactions"
     year: '2026'
   XJq_DsgAAAAJ:blknAaTinKkC:
-    citations: 4
+    citations: 5
     title: "The Challenges of Micro-Nowcasting and the Women\u2019s Slope Style Event at the PyeongChang 2018 Olympic Winter Games"
     year: '2023'
   XJq_DsgAAAAJ:cFHS6HbyZ2cC:
@@ -170,11 +178,11 @@ papers:
     title: 'Diagnosis of winter precipitation types using the spectral bin model (version 1DSBM-19M): comparison of five methods using ICE-POP 2018 field experiment data'
     year: '2025'
   XJq_DsgAAAAJ:dhFuZR0502QC:
-    citations: 18
+    citations: 22
     title: "Simulated microphysical properties of winter storms from bulk-type microphysics schemes and their evaluation in the Weather Research and Forecasting (v4. 1.3) model during the \u2026"
     year: '2022'
   XJq_DsgAAAAJ:e5wmG9Sq2KIC:
-    citations: 16
+    citations: 19
     title: High-resolution 3D winds derived from a modified WISSDOM synthesis scheme using multiple Doppler lidars and observations
     year: '2023'
   XJq_DsgAAAAJ:eQOLeE2rZwMC:
@@ -182,7 +190,7 @@ papers:
     title: Characteristics of Summer Season Precipitation Motion over Jeju Island Region Using Variational Echo Tracking
     year: '2018'
   XJq_DsgAAAAJ:f2IySw72cVMC:
-    citations: 1
+    citations: 2
     title: How to maximize the educational benefits for students participating in a meteorological field campaign
     year: '2026'
   XJq_DsgAAAAJ:fPk4N6BV_jEC:
@@ -206,7 +214,7 @@ papers:
     title: Evaluation of SWER (Ze) Relationships by Precipitation Imaging Package (PIP) during ICE-POP 2018
     year: '2023'
   XJq_DsgAAAAJ:lSLTfruPkqcC:
-    citations: 0
+    citations: 1
     title: Effects of Parameters Defining the Characteristics of Raindrops in the Cloud Microphysics Parameterization on the Simulated Summer Precipitation over the Korean Peninsula
     year: '2024'
   XJq_DsgAAAAJ:ldfaerwXgEUC:
@@ -238,11 +246,11 @@ papers:
     title: The Influence of riming on snow density using ground-based measurement during ICE-POP 2018
     year: '2020'
   XJq_DsgAAAAJ:rO6llkc54NcC:
-    citations: 2
+    citations: 4
     title: "A radar\u2010based investigation of precipitation growth and decay in South Korea"
     year: '2025'
   XJq_DsgAAAAJ:roLk4NBRz8UC:
-    citations: 35
+    citations: 37
     title: Evaluation of simulated winter precipitation using WRF-ARW during the ICE-POP 2018 field campaign
     year: '2020'
   XJq_DsgAAAAJ:u-x6o8ySG0sC:
@@ -250,7 +258,7 @@ papers:
     title: Microphysical characteristics analysis of three heavy snowfall events from the MASCRAD campaign in Greeley, Colorado, USA
     year: '2016'
   XJq_DsgAAAAJ:u5HHmVD_uO8C:
-    citations: 1
+    citations: 2
     title: 'MASCRAD events: Observations and analyses of cases with contrasting hydrometeor forms'
     year: '2017'
   XJq_DsgAAAAJ:u_35RYKgDlwC:
